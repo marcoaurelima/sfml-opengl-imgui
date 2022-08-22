@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/marco/Documentos/sfml-opengl-imgui'
+g++ -std=c++11  -o main -I ./include main.o imgui.o imgui_draw.o imgui-SFML.o imgui_tables.o imgui_widgets.o imgui_demo.o -lsfml-graphics -lsfml-window -lsfml-system -lGL   
+make: Leaving directory '/home/marco/Documentos/sfml-opengl-imgui'
+ 

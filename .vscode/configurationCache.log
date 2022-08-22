@@ -1,0 +1,1 @@
+{"buildTargets":["all","clean","imgui-SFML.o","imgui.o","imgui_demo.o","imgui_draw.o","imgui_tables.o","imgui_widgets.o","main.o","run"],"launchTargets":["/home/marco/Documentos/sfml-opengl-imgui>main()"],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[]},"fileIndex":[]}}
